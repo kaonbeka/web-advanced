@@ -1,18 +1,22 @@
-li{
-     color:green;
+p {
+    margin-right: 80px;
+    padding-left: 50px;
+    background-color: lightgrey;
 }
 
-buton{
-
-    padding-bottom: px20 ;
-    padding-right: px20 ;
-    padding-right: px20;
-    padding-left:  px20;
-
-    margin-top: px20;
-
-
-
-
-
+h3 {
+    /* color: red; */
+    color: rgb(255,0,0);
+    color: #00ff00;
 }
+
+body {
+    /*background-color: blue;*/
+    background-color: url("images.jpg");
+    background-size: cover;
+}
+
+
+
+
+
