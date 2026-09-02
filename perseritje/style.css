@@ -1,0 +1,37 @@
+.contanier{
+    display: flex;
+    background: #06206a;
+}
+
+.contanier div{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 35px;
+}
+
+.contanier div:nth-child(1){
+    order:2;
+}
+
+
+
+.contanier div:nth-child(2){
+    order:3;
+}
+
+
+
+.contanier div:nth-child(3){
+    order:0;
+}
+
+
+
+
+.contanier div:nth-child(4){
+    order:1;
+}
+
+
+
