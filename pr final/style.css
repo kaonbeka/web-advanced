@@ -1,0 +1,18 @@
+nav{
+    background-color: #FBEFEF;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px
+}
+
+ul{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    list-style-position: none;
+    margin: 20px;
+    
+}
+
