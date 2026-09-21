@@ -6,7 +6,7 @@ nav{
     align-items: center;
     padding: 20px;
     justify-content: center;
-    
+    margin: 0px;
 }
 
 ul{
@@ -15,6 +15,26 @@ ul{
     flex-direction: row;
     list-style-position: none;
     margin: 20px;
+    list-style-type: none;
     
 }
+
+nav ul li{
+    padding: 20px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: white;
+}
+
+.main{
+    background-image: url(shop-store.jpg);
+}
+
+
 
