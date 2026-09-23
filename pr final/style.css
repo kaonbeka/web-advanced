@@ -33,8 +33,10 @@ nav ul li a:hover{
 }
 
 .main{
-    background-image: url(shop-store.jpg);
+    background-image: url(shop-store.jpg));
 }
+
+
 
 
 
