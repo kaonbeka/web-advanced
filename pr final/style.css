@@ -1,5 +1,5 @@
 nav{
-    background-color: #FBEFEF;
+   background-color: white;
     color: black;
     display: flex;
     flex-direction: row;
@@ -29,14 +29,39 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: white;
+    color: rgb(199, 33, 33);
 }
 
 .main{
-    background-image: url(shop-store.jpg));
+    background-image: url(shop-store.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    min-height: 100vh;
 }
 
 
+.hero{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
+  text-align: center;
+  padding: 40px;
+ 
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
 
 
